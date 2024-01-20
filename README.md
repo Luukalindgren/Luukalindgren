@@ -2,7 +2,6 @@
 <img align="right" src="https://workchronicles.com/wp-content/uploads/2023/03/glimpse-of-the-future-01-2.png"  width="40%" />
 <br/>
 <br/>
-<br/>
 
 
 <h3 align="left">A passionate M.Sc. (ICT) student from Finland</h3>
@@ -19,9 +18,9 @@
 <a href="https://instagram.com/luukalindgren" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="luukalindgren"  /></a>
 </p>
 
+<br/>
+<br/>
 
-<br/>
-<br/>
 <h3 align="center">Languages and Tools:</h3>
  <p align="center">
   <a href="https://skillicons.dev">
