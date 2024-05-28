@@ -10,13 +10,9 @@
 <li align="left"> 📫 How to reach me: <b>luuka.lindgren@gmail.com</b> </li>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/luukalindgren" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="luukalindgren" /></a>
-<a href="https://instagram.com/luukalindgren" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="luukalindgren"  /></a>
-</p>
+<h3 align="left">Connect with me: <a href="https://linkedin.com/in/luukalindgren" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="luukalindgren" /></a></h3>
 
-<br/>
+
 <br/>
 
 <h3 align="center">Technologies that I have used:</h3>
