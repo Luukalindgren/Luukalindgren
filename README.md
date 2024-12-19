@@ -21,7 +21,7 @@
 <h3 align="center">Technologies that I have used:</h3>
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,py,html,css,java,git,vscode,vite,azure,bash,figma,supabase,mongodb,nextjs,nodejs,ps,postman,wordpress,webflow&perline=10" />
+    <img src="https://skillicons.dev/icons?i=js,react,py,nodejs,java,azure,bash,figma,supabase,mongodb,ps,postman,wordpress,webflow&perline=7" />
   </a>
 </p>
 
