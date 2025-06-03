@@ -5,8 +5,8 @@
 <br/>
 
 
-<h3 align="left">A passionate M.Sc. (ICT) student from Finland</h3>
-<li align="left"> 🌱 I’m currently pursuing Masters in <b>Robotics and Autonomous Systems</b> </li>
+<h3 align="left">A passionate tech enthusiast from Finland</h3>
+<li align="left"> 🌱 Recent graduate from University of Turku, MSc in Information and Communication Technology (<i>Robotics and Autonomous Systems</i>) </li>
 <li align="left"> 👨‍💻 My portofolio website can be found at: <a href="https://www.luuka.tech" target="_blank">luuka.tech</a> </li>
 <li align="left"> 📫 How to reach me: <b>luuka.lindgren@gmail.com</b> </li>
 
