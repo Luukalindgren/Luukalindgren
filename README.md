@@ -5,7 +5,8 @@
 <br/>
 
 
-<h3 align="left">A passionate tech enthusiast from Finland</h3>
+<h3 align="left">Engineer-minded generalist from Finland</h3>
+<li align="left"> 💻 Proud Reaktorian </li>
 <li align="left"> 🌱 Recent graduate from University of Turku, MSc in Information and Communication Technology (<i>Robotics and Autonomous Systems</i>) </li>
 <li align="left"> 📫 How to reach me: <b>luuka.lindgren@gmail.com</b> </li>
 
@@ -20,7 +21,7 @@
 <h3 align="center">Technologies that I have used:</h3>
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,py,nodejs,java,azure,bash,figma,supabase,mongodb,ps,postman,wordpress,webflow&perline=7" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,py,nodejs,aws,bash,linux,mysql,supabase,mongodb,figma,ps,webflow&perline=7" />
   </a>
 </p>
 
