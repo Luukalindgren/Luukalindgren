@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luuka</h1>
-<img align="right" src="https://workchronicles.com/wp-content/uploads/2023/03/glimpse-of-the-future-01-2.png"  width="40%" />
-<br/>
+<img align="right" src="https://substackcdn.com/image/fetch/$s_!eznX!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd063fbe-aff5-49e9-94dd-d527dafbe29f_4800x4800.png"  width="40%" />
 <br/>
 <br/>
 
@@ -10,11 +9,6 @@
 <li align="left"> 🌱 Recent graduate from University of Turku, MSc in Information and Communication Technology (<i>Robotics and Autonomous Systems</i>) </li>
 <li align="left"> 📫 How to reach me: <b>luuka.lindgren@gmail.com</b> </li>
 
-
-<h3 align="left">Connect with me: <a href="https://linkedin.com/in/luukalindgren" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="luukalindgren" /></a></h3>
-
-
-<br/>
 <br/>
 <br/>
 
